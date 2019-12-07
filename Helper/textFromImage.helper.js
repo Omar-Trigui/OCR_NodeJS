@@ -33,7 +33,7 @@ function ReadImage(config,path) {
 
   })
 
-  console.log(MyResult);
+
 
 
 };

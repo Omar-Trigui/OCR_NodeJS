@@ -9,7 +9,6 @@ const config = {
 }
 const path = 'image/0.png';
 
-// //const path = '0.png' ;
 ReadImage(config,path).then(result => {
   if (result.title) {
     //get the connection string from .env file
